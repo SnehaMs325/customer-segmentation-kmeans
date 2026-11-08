@@ -84,10 +84,9 @@ Here is the scatter plot visualizing the 5 customer segments along with their cl
 *These recommendations are exploratory and would require validation using additional customer behavior data.*
 
 ## Project Structure
+
 ```text
 customer-segmentation/
-├── assets/
-│   └── cluster_plot.png
 ├── data/
 │   └── Mall_Customers.csv
 ├── models/
@@ -96,3 +95,4 @@ customer-segmentation/
 ├── notebook/
 │   └── customer_segmentation.ipynb
 └── README.md
+```
