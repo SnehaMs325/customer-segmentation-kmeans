@@ -66,6 +66,14 @@ The dataset contains information about 200 customers with the following columns:
 | **3** | High Income, Low Spending | 35 | 17.5% |
 | **4** | Low Income, Low Spending | 23 | 11.5% |
 
+## Cluster Visualization
+
+Here is the scatter plot visualizing the 5 customer segments along with their cluster centroids (marked with red crosses):
+
+![Customer Segments Visualization](assets/cluster_plot.png)
+
+*(Note: Make sure to save your plot image inside an `assets/` folder in your repository and name it `cluster_plot.png`, or update the path above to match where you save your screenshot!)*
+
 ## Business Insights
 - **Cluster 0:** The largest customer segment. Personalized offers could be explored to encourage engagement.
 - **Cluster 1:** High-income, high-spending customers may be suitable for premium experiences and loyalty programs.
@@ -78,6 +86,8 @@ The dataset contains information about 200 customers with the following columns:
 ## Project Structure
 ```text
 customer-segmentation/
+├── assets/
+│   └── cluster_plot.png
 ├── data/
 │   └── Mall_Customers.csv
 ├── models/
