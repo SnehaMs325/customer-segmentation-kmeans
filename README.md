@@ -72,7 +72,7 @@ Here is the scatter plot visualizing the 5 customer segments along with their cl
 
 ![Customer Segments Visualization](assets/cluster_plot.png)
 
-*(Note: Make sure to save your plot image inside an `assets/` folder in your repository and name it `cluster_plot.png`, or update the path above to match where you save your screenshot!)*
+
 
 ## Business Insights
 - **Cluster 0:** The largest customer segment. Personalized offers could be explored to encourage engagement.
